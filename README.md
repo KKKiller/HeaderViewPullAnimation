@@ -1,0 +1,2 @@
+# HeaderViewPullAnimation
+headerView是一个图片轮播器,同时实现下拉放大,上推缓慢覆盖的效果
